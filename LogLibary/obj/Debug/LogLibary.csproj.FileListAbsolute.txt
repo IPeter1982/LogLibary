@@ -1,0 +1,5 @@
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary\LogLibary\LogLibary\obj\Debug\LogLibary.csprojResolveAssemblyReference.cache
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary\LogLibary\LogLibary\bin\Debug\LogLibary.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary\LogLibary\LogLibary\bin\Debug\LogLibary.pdb
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary\LogLibary\LogLibary\obj\Debug\LogLibary.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary\LogLibary\LogLibary\obj\Debug\LogLibary.pdb
