@@ -1,0 +1,8 @@
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\bin\Debug\LogLibary.Test.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\bin\Debug\LogLibary.Test.pdb
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\bin\Debug\LogLibary.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\bin\Debug\LogLibary.pdb
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\obj\Debug\LogLibary.Test.csprojResolveAssemblyReference.cache
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\obj\Debug\LogLibary.Test.dll
+C:\Users\IPeter\Documents\Visual Studio 2015\Projects\Teszt\LogLibary_Git\LogLibary.Test\obj\Debug\LogLibary.Test.pdb

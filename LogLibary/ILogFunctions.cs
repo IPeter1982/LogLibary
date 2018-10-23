@@ -8,9 +8,9 @@ namespace LogLibary
 {
     public interface ILogFunctions
     {        
-        void Error(string message, int? messageID, Exception exception, string info);
-        void Warning(string message, int? messageID, Exception exception, string info);
-        void Info(string message, int? messageID, Exception exception, string info);
-        void Debug(string message, int? messageID, Exception exception, string info);
+        int Error(string message, int? messageID, Exception exception, string info);
+        int Warning(string message, int? messageID, Exception exception, string info);
+        int Info(string message, int? messageID, Exception exception, string info);
+        int Debug(string message, int? messageID, Exception exception, string info);
     }
 }
